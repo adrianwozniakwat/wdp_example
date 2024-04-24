@@ -8,3 +8,5 @@ def sort_numbers(numbers: List):
             if numbers[j] > numbers[j + 1]:
                 numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
     return numbers
+
+#added code to test merge
