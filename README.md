@@ -11,3 +11,5 @@ is na początku funkcji, która zwraca boola
 argumenty wyjściowe
 
 komentarze
+
+dzien dobry
